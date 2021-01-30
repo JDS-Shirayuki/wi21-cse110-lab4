@@ -1,1 +1,2 @@
-# wi21-cse110-lab4
+Name: Yichen Yang
+E-mail: yiy015@ucsd.edu
