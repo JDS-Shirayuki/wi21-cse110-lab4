@@ -75,7 +75,7 @@
 
     So the result is [6, 8, 10]
 
-20. The output is:
+21. The output is:
     1
     4
     3
