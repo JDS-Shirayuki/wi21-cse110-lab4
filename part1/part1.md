@@ -1,3 +1,4 @@
+<pre>
 1. The length of prices array will be printed to console since var has function level scope
 
 2. The last assignment of discountedPrice value will be printed to console since var has function level scope
@@ -79,3 +80,4 @@
     4
     3
     2
+</pre>
